@@ -33,10 +33,16 @@ Please open an issue, send us a message on Discord, or contact us via email with
 ---
 
 
-[![License: CERN-OHL-S v2](https://img.shields.io/badge/license-CERN--OHL--S%20v2-blue)](LICENSE)    ![Issues](https://img.shields.io/github/issues/PCrnjak/PAR6-Collaborative-Robot-Arm) ![release](https://img.shields.io/github/v/release/PCrnjak/PAR6-Collaborative-Robot-Arm) [![Powered by the Robotics Toolbox](https://raw.githubusercontent.com/petercorke/robotics-toolbox-python/master/.github/svg/rtb_powered.min.svg)](https://github.com/petercorke/robotics-toolbox-python) ![Last Commit](https://img.shields.io/github/last-commit/PCrnjak/PAR6-Collaborative-Robot-Arm)
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-CERN--OHL--S%20v2-blue" alt="License: CERN-OHL-S v2"></a>
+  <img src="https://img.shields.io/github/issues/PCrnjak/PAR6-Collaborative-Robot-Arm" alt="Issues">
+  <img src="https://img.shields.io/github/v/release/PCrnjak/PAR6-Collaborative-Robot-Arm" alt="Release">
+  <a href="https://github.com/petercorke/robotics-toolbox-python"><img src="https://raw.githubusercontent.com/petercorke/robotics-toolbox-python/master/.github/svg/rtb_powered.min.svg" alt="Powered by the Robotics Toolbox"></a>
+  <img src="https://img.shields.io/github/last-commit/PCrnjak/PAR6-Collaborative-Robot-Arm" alt="Last Commit">
+</p>
 
 
-<p align="left">
+<p align="center">
   <a href="https://source-robotics.github.io/PAROL-docs/"><img src="https://img.shields.io/badge/doc-page-orange" alt="Documentation"></a>
   <a href="http://discord.gg/prjUvjmGpZ"><img src="https://img.shields.io/discord/1072498136284667955?logo=discord&color=blue" alt="Discord"></a>
   <a href="https://source-robotics.com//"><img src="https://img.shields.io/badge/Shop-shopping-purple?logo=shopify" alt="Shop"></a>
