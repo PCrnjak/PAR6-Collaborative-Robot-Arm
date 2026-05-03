@@ -28,7 +28,7 @@ TODO - Check this repository to build your Robot Control Box
 | M4 | 16 mm | 16 | DIN 912 / ISO 4762 (Socket head cap) 
 | M4 | 14 mm | 4 | DIN 912 / ISO 4762 (Socket head cap)
 | M4 | 50 mm | 4 | DIN 912 / ISO 4762 (Socket head cap)
-| M3 | 15 mm or 16 | 4 | Tapered / Countersunk screw head 
+| M3 | 15 mm or 16 | 5 | Tapered / Countersunk screw head 
 | M5 | 16 mm | 8 | DIN 912 / ISO 4762 (Socket head cap)|
 | M3 | 22 mm | 4 | DIN 912 / ISO 4762 (Socket head cap)|
 | M3 | 40 mm | 8 | DIN 912 / ISO 4762 (Socket head cap)| 
@@ -44,7 +44,10 @@ TODO - Check this repository to build your Robot Control Box
 | :--- | :--- | :--- | :--- | :--- | :--- |:--- |
 | Gearbox 20:1 | Nema 17 20:1 | 2 | EG Series precision planetary | [Link](https://www.omc-stepperonline.com/eg-series-planetary-gearbox-gear-ratio-20-1-backlash-20-arc-min-for-nema-17-stepper-motor-eg17-g20?tracking=6543849d6ff69) | [Alt Link](https://s.click.aliexpress.com/e/_oEhMNU5) | [Link](BOM%20reference%20images/stepper%2020_1.jpg) |
 | Gearbox 10:1 | Nema 17 10:1 | 1 | EG Series precision planetary | [Link](https://www.omc-stepperonline.com/eg-series-planetary-gearbox-gear-ratio-10-1-backlash-15-arc-min-for-nema-17-stepper-motor-eg17-g10?tracking=6543849d6ff69) | [Alt Link](https://s.click.aliexpress.com/e/_oEhMNU5) |[Link](BOM%20reference%20images/stepper%2010_1.jpg) |
+| Gearbox 25:1 | Nema 17 10:1 | 1 | MGL Series precision planetary | [Link](https://www.omc-stepperonline.com/mgl-series-planetary-gearbox-gear-ratio-25-1-backlash-45arc-min-for-5mm-shaft-standard-nema-17-stepper-motor-mgl17-g25?tracking=6543849d6ff69) | [Alt Link](https://s.click.aliexpress.com/e/_c2QcIBnD) |[Link](BOM%20reference%20images/stepper%2010_1.jpg) |
 
+
+25:1 Gearbox is still being tested. It might replace 20:1 used in J2!
 
 > [!NOTE]
 >     **You can use Lower quality MSG type reducers. They offer a tradeoff where they are cheaper but have more backlash**
@@ -86,7 +89,7 @@ TODO - Check this repository to build your Robot Control Box
 | NSK HR32906J| NSK HR32906J  Tapered bearing| 5 | Joint 5, 4 and 3 | [Link](https://s.click.aliexpress.com/e/_DcJMtBl) | |[Link](BOM%20reference%20images/Tapered%20bearing.png) |
 | NSK HR32907J | NSK HR32907J Tapered bearing | 4 | Joint 1 and 2 | [Link](https://s.click.aliexpress.com/e/_DcJMtBl) | |[Link](BOM%20reference%20images/Tapered%20bearing.png) |
 | Tensioning bearing | 3x8x4 | 2 | Ball bearing for belts | [Link](https://s.click.aliexpress.com/e/_DCjfgFV) | |[Link](BOM%20reference%20images/small%20tension%20bearings.png) |
-| Tensioning bearing | 3x10x4 | 6 | Ball bearing for belts | [Link](https://s.click.aliexpress.com/e/_DlA33Af) | |[Link](BOM%20reference%20images/small%20tension%20bearings.png) |
+| Tensioning bearing | 3x10x4 | 8 | Ball bearing for belts | [Link](https://s.click.aliexpress.com/e/_DlA33Af) | |[Link](BOM%20reference%20images/small%20tension%20bearings.png) |
 | Brass inserts |  | 6 | M3, 5mm len, 4.5 OD| [Link](https://s.click.aliexpress.com/e/_c2RX6lzp) | |[Link](BOM%20reference%20images/brass_insert.png) |
  
 
